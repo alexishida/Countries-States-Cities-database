@@ -29,7 +29,7 @@
     },
     {
         "id": 5,
-        "name": "Qal\\'eh-ye Panjeh",
+        "name": "Qal'eh-ye Panjeh",
         "state_id": 1,
         "country_id": 1,
         "country_code": "AF"
@@ -43,7 +43,7 @@
     },
     {
         "id": 7,
-        "name": "Qal\\'eh-ye Naw",
+        "name": "Qal'eh-ye Naw",
         "state_id": 2,
         "country_id": 1,
         "country_code": "AF"
@@ -141,7 +141,7 @@
     },
     {
         "id": 21,
-        "name": "Qil Qal\\'eh",
+        "name": "Qil Qal'eh",
         "state_id": 5,
         "country_id": 1,
         "country_code": "AF"
@@ -232,7 +232,7 @@
     },
     {
         "id": 34,
-        "name": "Eslam Qal\\'eh",
+        "name": "Eslam Qal'eh",
         "state_id": 10,
         "country_id": 1,
         "country_code": "AF"
@@ -582,7 +582,7 @@
     },
     {
         "id": 84,
-        "name": "\\'Ali Khayl",
+        "name": "'Ali Khayl",
         "state_id": 23,
         "country_id": 1,
         "country_code": "AF"
@@ -645,7 +645,7 @@
     },
     {
         "id": 93,
-        "name": "Qal\\'eh-ye Zal",
+        "name": "Qal'eh-ye Zal",
         "state_id": 26,
         "country_id": 1,
         "country_code": "AF"
@@ -715,7 +715,7 @@
     },
     {
         "id": 103,
-        "name": "Yangi Qal\\'eh",
+        "name": "Yangi Qal'eh",
         "state_id": 29,
         "country_id": 1,
         "country_code": "AF"
@@ -1331,7 +1331,7 @@
     },
     {
         "id": 191,
-        "name": "\\'Abadlah",
+        "name": "'Abadlah",
         "state_id": 74,
         "country_id": 4,
         "country_code": "DZ"
@@ -1366,14 +1366,14 @@
     },
     {
         "id": 196,
-        "name": "\\'Aris",
+        "name": "'Aris",
         "state_id": 75,
         "country_id": 4,
         "country_code": "DZ"
     },
     {
         "id": 197,
-        "name": "\\'Ayn Tutah",
+        "name": "'Ayn Tutah",
         "state_id": 75,
         "country_id": 4,
         "country_code": "DZ"
@@ -1408,7 +1408,7 @@
     },
     {
         "id": 202,
-        "name": "Ra\\'s-al-\\'Ayun",
+        "name": "Ra's-al-'Ayun",
         "state_id": 75,
         "country_id": 4,
         "country_code": "DZ"
@@ -1422,7 +1422,7 @@
     },
     {
         "id": 204,
-        "name": "\\'Ayt Rizin",
+        "name": "'Ayt Rizin",
         "state_id": 76,
         "country_id": 4,
         "country_code": "DZ"
@@ -1485,7 +1485,7 @@
     },
     {
         "id": 213,
-        "name": "Sidi \\'Aysh",
+        "name": "Sidi 'Aysh",
         "state_id": 76,
         "country_id": 4,
         "country_code": "DZ"
@@ -1562,7 +1562,7 @@
     },
     {
         "id": 224,
-        "name": "Um\\'ash",
+        "name": "Um'ash",
         "state_id": 77,
         "country_id": 4,
         "country_code": "DZ"
@@ -1667,7 +1667,7 @@
     },
     {
         "id": 239,
-        "name": "Shari\\'ah",
+        "name": "Shari'ah",
         "state_id": 78,
         "country_id": 4,
         "country_code": "DZ"
@@ -1702,21 +1702,21 @@
     },
     {
         "id": 244,
-        "name": "al-\\'Afrun",
+        "name": "al-'Afrun",
         "state_id": 78,
         "country_id": 4,
         "country_code": "DZ"
     },
     {
         "id": 245,
-        "name": "al-Arba\\'a",
+        "name": "al-Arba'a",
         "state_id": 78,
         "country_id": 4,
         "country_code": "DZ"
     },
     {
         "id": 246,
-        "name": "\\'Ayn Bissim",
+        "name": "'Ayn Bissim",
         "state_id": 79,
         "country_id": 4,
         "country_code": "DZ"
@@ -1730,7 +1730,7 @@
     },
     {
         "id": 248,
-        "name": "Bi\\'r Ghabalu",
+        "name": "Bi'r Ghabalu",
         "state_id": 79,
         "country_id": 4,
         "country_code": "DZ"
@@ -1765,7 +1765,7 @@
     },
     {
         "id": 253,
-        "name": "\\'Ayn Tayah",
+        "name": "'Ayn Tayah",
         "state_id": 80,
         "country_id": 4,
         "country_code": "DZ"
@@ -1863,7 +1863,7 @@
     },
     {
         "id": 267,
-        "name": "Sa\\'abat",
+        "name": "Sa'abat",
         "state_id": 80,
         "country_id": 4,
         "country_code": "DZ"
@@ -1877,7 +1877,7 @@
     },
     {
         "id": 269,
-        "name": "al-Arba\\'a Tash",
+        "name": "al-Arba'a Tash",
         "state_id": 80,
         "country_id": 4,
         "country_code": "DZ"
@@ -1919,7 +1919,7 @@
     },
     {
         "id": 275,
-        "name": "Sidi Muhammad Ban \\'Ali",
+        "name": "Sidi Muhammad Ban 'Ali",
         "state_id": 82,
         "country_id": 4,
         "country_code": "DZ"
@@ -1975,7 +1975,7 @@
     },
     {
         "id": 283,
-        "name": "al-Ghuli\\'ah",
+        "name": "al-Ghuli'ah",
         "state_id": 83,
         "country_id": 4,
         "country_code": "DZ"
@@ -1996,7 +1996,7 @@
     },
     {
         "id": 286,
-        "name": "Amir \\'Abd-al-Qadar",
+        "name": "Amir 'Abd-al-Qadar",
         "state_id": 85,
         "country_id": 4,
         "country_code": "DZ"
@@ -2031,14 +2031,14 @@
     },
     {
         "id": 291,
-        "name": "\\'Ayn Wissarah",
+        "name": "'Ayn Wissarah",
         "state_id": 86,
         "country_id": 4,
         "country_code": "DZ"
     },
     {
         "id": 292,
-        "name": "\\'Ayn-al-Ibil",
+        "name": "'Ayn-al-Ibil",
         "state_id": 86,
         "country_id": 4,
         "country_code": "DZ"
@@ -2073,7 +2073,7 @@
     },
     {
         "id": 297,
-        "name": "Mis\\'ad",
+        "name": "Mis'ad",
         "state_id": 86,
         "country_id": 4,
         "country_code": "DZ"
@@ -2122,35 +2122,35 @@
     },
     {
         "id": 304,
-        "name": "\\'Ayn-al-Hajal",
+        "name": "'Ayn-al-Hajal",
         "state_id": 88,
         "country_id": 4,
         "country_code": "DZ"
     },
     {
         "id": 305,
-        "name": "\\'Ayn-al-Milh",
+        "name": "'Ayn-al-Milh",
         "state_id": 88,
         "country_id": 4,
         "country_code": "DZ"
     },
     {
         "id": 306,
-        "name": "Bu Sa\\'adah",
+        "name": "Bu Sa'adah",
         "state_id": 88,
         "country_id": 4,
         "country_code": "DZ"
     },
     {
         "id": 307,
-        "name": "Hammam Dhala\\'a",
+        "name": "Hammam Dhala'a",
         "state_id": 88,
         "country_id": 4,
         "country_code": "DZ"
     },
     {
         "id": 308,
-        "name": "Ma\\'adid",
+        "name": "Ma'adid",
         "state_id": 88,
         "country_id": 4,
         "country_code": "DZ"
@@ -2171,7 +2171,7 @@
     },
     {
         "id": 311,
-        "name": "Sidi \\'Aysa",
+        "name": "Sidi 'Aysa",
         "state_id": 88,
         "country_id": 4,
         "country_code": "DZ"
@@ -2185,7 +2185,7 @@
     },
     {
         "id": 313,
-        "name": "\\'Ayn Bu Sif",
+        "name": "'Ayn Bu Sif",
         "state_id": 89,
         "country_id": 4,
         "country_code": "DZ"
@@ -2255,7 +2255,7 @@
     },
     {
         "id": 323,
-        "name": "Salghum-al-\\'Ayd",
+        "name": "Salghum-al-'Ayd",
         "state_id": 90,
         "country_id": 4,
         "country_code": "DZ"
@@ -2346,7 +2346,7 @@
     },
     {
         "id": 336,
-        "name": "\\'Ayn Tadalas",
+        "name": "'Ayn Tadalas",
         "state_id": 92,
         "country_id": 4,
         "country_code": "DZ"
@@ -2381,7 +2381,7 @@
     },
     {
         "id": 341,
-        "name": "\\'Ayn Safra",
+        "name": "'Ayn Safra",
         "state_id": 93,
         "country_id": 4,
         "country_code": "DZ"
@@ -2416,7 +2416,7 @@
     },
     {
         "id": 346,
-        "name": "\\'Ayn Bardah",
+        "name": "'Ayn Bardah",
         "state_id": 96,
         "country_id": 4,
         "country_code": "DZ"
@@ -2430,7 +2430,7 @@
     },
     {
         "id": 348,
-        "name": "Hamman Awlad \\'Ali",
+        "name": "Hamman Awlad 'Ali",
         "state_id": 96,
         "country_id": 4,
         "country_code": "DZ"
@@ -2451,14 +2451,14 @@
     },
     {
         "id": 351,
-        "name": "\\'Ayn Abid",
+        "name": "'Ayn Abid",
         "state_id": 97,
         "country_id": 4,
         "country_code": "DZ"
     },
     {
         "id": 352,
-        "name": "\\'Ayn Samara",
+        "name": "'Ayn Samara",
         "state_id": 97,
         "country_id": 4,
         "country_code": "DZ"
@@ -2500,7 +2500,7 @@
     },
     {
         "id": 358,
-        "name": "\\'Azzabah",
+        "name": "'Azzabah",
         "state_id": 98,
         "country_id": 4,
         "country_code": "DZ"
@@ -2570,35 +2570,35 @@
     },
     {
         "id": 368,
-        "name": "\\'Ayn \\'Azl",
+        "name": "'Ayn 'Azl",
         "state_id": 99,
         "country_id": 4,
         "country_code": "DZ"
     },
     {
         "id": 369,
-        "name": "\\'Ayn Arnat",
+        "name": "'Ayn Arnat",
         "state_id": 99,
         "country_id": 4,
         "country_code": "DZ"
     },
     {
         "id": 370,
-        "name": "\\'Ayn Taqrut",
+        "name": "'Ayn Taqrut",
         "state_id": 99,
         "country_id": 4,
         "country_code": "DZ"
     },
     {
         "id": 371,
-        "name": "\\'Ayn Wilman",
+        "name": "'Ayn Wilman",
         "state_id": 99,
         "country_id": 4,
         "country_code": "DZ"
     },
     {
         "id": 372,
-        "name": "\\'Ayn-al-Khabira",
+        "name": "'Ayn-al-Khabira",
         "state_id": 99,
         "country_id": 4,
         "country_code": "DZ"
@@ -2612,7 +2612,7 @@
     },
     {
         "id": 374,
-        "name": "Buq\\'ah",
+        "name": "Buq'ah",
         "state_id": 99,
         "country_id": 4,
         "country_code": "DZ"
@@ -2647,35 +2647,35 @@
     },
     {
         "id": 379,
-        "name": "al-\\'Ulmah",
+        "name": "al-'Ulmah",
         "state_id": 99,
         "country_id": 4,
         "country_code": "DZ"
     },
     {
         "id": 380,
-        "name": "\\'Ayn-al-Hajar",
+        "name": "'Ayn-al-Hajar",
         "state_id": 100,
         "country_id": 4,
         "country_code": "DZ"
     },
     {
         "id": 381,
-        "name": "Sayda\\'",
+        "name": "Sayda'",
         "state_id": 100,
         "country_id": 4,
         "country_code": "DZ"
     },
     {
         "id": 382,
-        "name": "\\'Ayn Qazzan",
+        "name": "'Ayn Qazzan",
         "state_id": 103,
         "country_id": 4,
         "country_code": "DZ"
     },
     {
         "id": 383,
-        "name": "\\'Ayn Salah",
+        "name": "'Ayn Salah",
         "state_id": 103,
         "country_id": 4,
         "country_code": "DZ"
@@ -2689,21 +2689,21 @@
     },
     {
         "id": 385,
-        "name": "\\'Ayn Binyan",
+        "name": "'Ayn Binyan",
         "state_id": 104,
         "country_id": 4,
         "country_code": "DZ"
     },
     {
         "id": 386,
-        "name": "Bu Isma\\'il",
+        "name": "Bu Isma'il",
         "state_id": 104,
         "country_id": 4,
         "country_code": "DZ"
     },
     {
         "id": 387,
-        "name": "Bu Midfar\\'ah",
+        "name": "Bu Midfar'ah",
         "state_id": 104,
         "country_id": 4,
         "country_code": "DZ"
@@ -2787,14 +2787,14 @@
     },
     {
         "id": 399,
-        "name": "al-Qull\\'ah",
+        "name": "al-Qull'ah",
         "state_id": 104,
         "country_id": 4,
         "country_code": "DZ"
     },
     {
         "id": 400,
-        "name": "Bi\\'r-al-\\'Itir",
+        "name": "Bi'r-al-'Itir",
         "state_id": 105,
         "country_id": 4,
         "country_code": "DZ"
@@ -2836,7 +2836,7 @@
     },
     {
         "id": 406,
-        "name": "al-\\'Awaynat",
+        "name": "al-'Awaynat",
         "state_id": 105,
         "country_id": 4,
         "country_code": "DZ"
@@ -2920,7 +2920,7 @@
     },
     {
         "id": 418,
-        "name": "Sidi \\'Abdallah",
+        "name": "Sidi 'Abdallah",
         "state_id": 106,
         "country_id": 4,
         "country_code": "DZ"
@@ -2962,7 +2962,7 @@
     },
     {
         "id": 424,
-        "name": "\\'Ayn Dhahab",
+        "name": "'Ayn Dhahab",
         "state_id": 109,
         "country_id": 4,
         "country_code": "DZ"
@@ -2983,7 +2983,7 @@
     },
     {
         "id": 427,
-        "name": "Mashra\\'a Asfa",
+        "name": "Mashra'a Asfa",
         "state_id": 109,
         "country_id": 4,
         "country_code": "DZ"
@@ -3025,35 +3025,35 @@
     },
     {
         "id": 433,
-        "name": "\\'Ayn Bayda",
+        "name": "'Ayn Bayda",
         "state_id": 111,
         "country_id": 4,
         "country_code": "DZ"
     },
     {
         "id": 434,
-        "name": "\\'Ayn Fakrun",
+        "name": "'Ayn Fakrun",
         "state_id": 111,
         "country_id": 4,
         "country_code": "DZ"
     },
     {
         "id": 435,
-        "name": "\\'Ayn Kirshah",
+        "name": "'Ayn Kirshah",
         "state_id": 111,
         "country_id": 4,
         "country_code": "DZ"
     },
     {
         "id": 436,
-        "name": "\\'Ayn Malilah",
+        "name": "'Ayn Malilah",
         "state_id": 111,
         "country_id": 4,
         "country_code": "DZ"
     },
     {
         "id": 437,
-        "name": "Bi\\'r Shuhada",
+        "name": "Bi'r Shuhada",
         "state_id": 111,
         "country_id": 4,
         "country_code": "DZ"
@@ -3081,14 +3081,14 @@
     },
     {
         "id": 441,
-        "name": "\\'Ayn Biya",
+        "name": "'Ayn Biya",
         "state_id": 112,
         "country_id": 4,
         "country_code": "DZ"
     },
     {
         "id": 442,
-        "name": "\\'Ayn-at-Turk",
+        "name": "'Ayn-at-Turk",
         "state_id": 112,
         "country_id": 4,
         "country_code": "DZ"
@@ -3102,7 +3102,7 @@
     },
     {
         "id": 444,
-        "name": "Bi\\'r-al-Jir",
+        "name": "Bi'r-al-Jir",
         "state_id": 112,
         "country_id": 4,
         "country_code": "DZ"
@@ -3172,7 +3172,7 @@
     },
     {
         "id": 454,
-        "name": "Hassi Mas\\'ud",
+        "name": "Hassi Mas'ud",
         "state_id": 113,
         "country_id": 4,
         "country_code": "DZ"
@@ -3326,7 +3326,7 @@
     },
     {
         "id": 476,
-        "name": "al-Jaza\\'ir",
+        "name": "al-Jaza'ir",
         "state_id": 119,
         "country_id": 4,
         "country_code": "DZ"
@@ -3347,7 +3347,7 @@
     },
     {
         "id": 479,
-        "name": "Hassan \\'Abd-al-Karim",
+        "name": "Hassan 'Abd-al-Karim",
         "state_id": 120,
         "country_id": 4,
         "country_code": "DZ"
@@ -3361,7 +3361,7 @@
     },
     {
         "id": 481,
-        "name": "Jama\\'a",
+        "name": "Jama'a",
         "state_id": 120,
         "country_id": 4,
         "country_code": "DZ"
@@ -3417,7 +3417,7 @@
     },
     {
         "id": 489,
-        "name": "\\'Ayn Maran",
+        "name": "'Ayn Maran",
         "state_id": 121,
         "country_id": 4,
         "country_code": "DZ"
@@ -3515,14 +3515,14 @@
     },
     {
         "id": 503,
-        "name": "Saba\\'ita Muk",
+        "name": "Saba'ita Muk",
         "state_id": 122,
         "country_id": 4,
         "country_code": "DZ"
     },
     {
         "id": 504,
-        "name": "al-Qal\\'ah",
+        "name": "al-Qal'ah",
         "state_id": 122,
         "country_id": 4,
         "country_code": "DZ"
@@ -3571,7 +3571,7 @@
     },
     {
         "id": 511,
-        "name": "Atu\\'u",
+        "name": "Atu'u",
         "state_id": 123,
         "country_id": 5,
         "country_code": "AS"
@@ -3585,21 +3585,21 @@
     },
     {
         "id": 513,
-        "name": "Aunu\\'u",
+        "name": "Aunu'u",
         "state_id": 123,
         "country_id": 5,
         "country_code": "AS"
     },
     {
         "id": 514,
-        "name": "Faga\\'alu",
+        "name": "Faga'alu",
         "state_id": 123,
         "country_id": 5,
         "country_code": "AS"
     },
     {
         "id": 515,
-        "name": "Faga\\'itua",
+        "name": "Faga'itua",
         "state_id": 123,
         "country_id": 5,
         "country_code": "AS"
@@ -3620,7 +3620,7 @@
     },
     {
         "id": 518,
-        "name": "Lauli\\'i",
+        "name": "Lauli'i",
         "state_id": 123,
         "country_id": 5,
         "country_code": "AS"
@@ -3634,7 +3634,7 @@
     },
     {
         "id": 520,
-        "name": "Nu\\'uuli",
+        "name": "Nu'uuli",
         "state_id": 123,
         "country_id": 5,
         "country_code": "AS"
@@ -3697,7 +3697,7 @@
     },
     {
         "id": 529,
-        "name": "Ili\\'ili",
+        "name": "Ili'ili",
         "state_id": 126,
         "country_id": 5,
         "country_code": "AS"
@@ -3746,7 +3746,7 @@
     },
     {
         "id": 536,
-        "name": "Pava\\'ia\\'i",
+        "name": "Pava'ia'i",
         "state_id": 126,
         "country_id": 5,
         "country_code": "AS"
@@ -3998,14 +3998,14 @@
     },
     {
         "id": 572,
-        "name": "M\\'banza-Kongo",
+        "name": "M'banza-Kongo",
         "state_id": 151,
         "country_id": 7,
         "country_code": "AO"
     },
     {
         "id": 573,
-        "name": "N\\'zeto",
+        "name": "N'zeto",
         "state_id": 151,
         "country_id": 7,
         "country_code": "AO"
@@ -9367,7 +9367,7 @@
     },
     {
         "id": 1339,
-        "name": "\\'Isa",
+        "name": "'Isa",
         "state_id": 269,
         "country_id": 18,
         "country_code": "BH"
@@ -9423,7 +9423,7 @@
     },
     {
         "id": 1347,
-        "name": "ar-Rifa\\'a",
+        "name": "ar-Rifa'a",
         "state_id": 278,
         "country_id": 18,
         "country_code": "BH"
@@ -10165,7 +10165,7 @@
     },
     {
         "id": 1453,
-        "name": "Sa\\'idpur",
+        "name": "Sa'idpur",
         "state_id": 326,
         "country_id": 19,
         "country_code": "BD"
@@ -10599,14 +10599,14 @@
     },
     {
         "id": 1515,
-        "name": "Homjel\\'",
+        "name": "Homjel'",
         "state_id": 356,
         "country_id": 21,
         "country_code": "BY"
     },
     {
         "id": 1516,
-        "name": "Jel\\'sk",
+        "name": "Jel'sk",
         "state_id": 356,
         "country_id": 21,
         "country_code": "BY"
@@ -10746,7 +10746,7 @@
     },
     {
         "id": 1536,
-        "name": "Skidel\\'",
+        "name": "Skidel'",
         "state_id": 357,
         "country_id": 21,
         "country_code": "BY"
@@ -10760,7 +10760,7 @@
     },
     {
         "id": 1538,
-        "name": "Smarhon\\'",
+        "name": "Smarhon'",
         "state_id": 357,
         "country_id": 21,
         "country_code": "BY"
@@ -10879,7 +10879,7 @@
     },
     {
         "id": 1555,
-        "name": "Baran\\'",
+        "name": "Baran'",
         "state_id": 363,
         "country_id": 21,
         "country_code": "BY"
@@ -10935,7 +10935,7 @@
     },
     {
         "id": 1563,
-        "name": "Ljepjel\\'",
+        "name": "Ljepjel'",
         "state_id": 363,
         "country_id": 21,
         "country_code": "BY"
@@ -10956,7 +10956,7 @@
     },
     {
         "id": 1566,
-        "name": "Novalukoml\\'",
+        "name": "Novalukoml'",
         "state_id": 363,
         "country_id": 21,
         "country_code": "BY"
@@ -11852,7 +11852,7 @@
     },
     {
         "id": 1694,
-        "name": "Fontaine-l\\'Eveque",
+        "name": "Fontaine-l'Eveque",
         "state_id": 370,
         "country_id": 22,
         "country_code": "BE"
@@ -11999,7 +11999,7 @@
     },
     {
         "id": 1715,
-        "name": "Mont-de-l\\'Enclus",
+        "name": "Mont-de-l'Enclus",
         "state_id": 370,
         "country_id": 22,
         "country_code": "BE"
@@ -18565,7 +18565,7 @@
     },
     {
         "id": 2653,
-        "name": "Olho d\\'Agua das Flores",
+        "name": "Olho d'Agua das Flores",
         "state_id": 455,
         "country_id": 31,
         "country_code": "BR"
@@ -19517,7 +19517,7 @@
     },
     {
         "id": 2789,
-        "name": "Dias d\\'Avila",
+        "name": "Dias d'Avila",
         "state_id": 458,
         "country_id": 31,
         "country_code": "BR"
@@ -22324,7 +22324,7 @@
     },
     {
         "id": 3190,
-        "name": "Olho d\\'Agua das Cunhas",
+        "name": "Olho d'Agua das Cunhas",
         "state_id": 464,
         "country_id": 31,
         "country_code": "BR"
@@ -25985,7 +25985,7 @@
     },
     {
         "id": 3713,
-        "name": "Alta Floresta d\\'Oeste",
+        "name": "Alta Floresta d'Oeste",
         "state_id": 476,
         "country_id": 31,
         "country_code": "BR"
@@ -26006,7 +26006,7 @@
     },
     {
         "id": 3716,
-        "name": "Alvorada d\\'Oeste",
+        "name": "Alvorada d'Oeste",
         "state_id": 476,
         "country_id": 31,
         "country_code": "BR"
@@ -26062,7 +26062,7 @@
     },
     {
         "id": 3724,
-        "name": "Espigao d\\'Oeste",
+        "name": "Espigao d'Oeste",
         "state_id": 476,
         "country_id": 31,
         "country_code": "BR"
@@ -26097,7 +26097,7 @@
     },
     {
         "id": 3729,
-        "name": "Machadinho d\\'Oeste",
+        "name": "Machadinho d'Oeste",
         "state_id": 476,
         "country_id": 31,
         "country_code": "BR"
@@ -26118,7 +26118,7 @@
     },
     {
         "id": 3732,
-        "name": "Nova Brasilandia d\\'Oeste",
+        "name": "Nova Brasilandia d'Oeste",
         "state_id": 476,
         "country_id": 31,
         "country_code": "BR"
@@ -26174,7 +26174,7 @@
     },
     {
         "id": 3740,
-        "name": "Santa Luzia d\\'Oeste",
+        "name": "Santa Luzia d'Oeste",
         "state_id": 476,
         "country_id": 31,
         "country_code": "BR"
@@ -26384,7 +26384,7 @@
     },
     {
         "id": 3770,
-        "name": "Itaporanga d\\'Ajuda",
+        "name": "Itaporanga d'Ajuda",
         "state_id": 480,
         "country_id": 31,
         "country_code": "BR"
@@ -28225,7 +28225,7 @@
     },
     {
         "id": 4033,
-        "name": "Fada N\\'gourma",
+        "name": "Fada N'gourma",
         "state_id": 522,
         "country_id": 35,
         "country_code": "BF"
@@ -30437,7 +30437,7 @@
     },
     {
         "id": 4349,
-        "name": "Barry\\'s Bay",
+        "name": "Barry's Bay",
         "state_id": 609,
         "country_id": 39,
         "country_code": "CA"
@@ -31291,7 +31291,7 @@
     },
     {
         "id": 4471,
-        "name": "L\\'Original",
+        "name": "L'Original",
         "state_id": 609,
         "country_id": 39,
         "country_code": "CA"
@@ -32950,21 +32950,21 @@
     },
     {
         "id": 4708,
-        "name": "L\\'Annonciation",
+        "name": "L'Annonciation",
         "state_id": 611,
         "country_id": 39,
         "country_code": "CA"
     },
     {
         "id": 4709,
-        "name": "L\\'Ascension-de-Notre-Seigneur",
+        "name": "L'Ascension-de-Notre-Seigneur",
         "state_id": 611,
         "country_id": 39,
         "country_code": "CA"
     },
     {
         "id": 4710,
-        "name": "L\\'Epiphanie",
+        "name": "L'Epiphanie",
         "state_id": 611,
         "country_id": 39,
         "country_code": "CA"
@@ -33825,7 +33825,7 @@
     },
     {
         "id": 4833,
-        "name": "Saint-Roch-de-l\\'Achigan",
+        "name": "Saint-Roch-de-l'Achigan",
         "state_id": 611,
         "country_id": 39,
         "country_code": "CA"
@@ -34070,7 +34070,7 @@
     },
     {
         "id": 4868,
-        "name": "Val-d\\'Or",
+        "name": "Val-d'Or",
         "state_id": 611,
         "country_id": 39,
         "country_code": "CA"
@@ -34259,7 +34259,7 @@
     },
     {
         "id": 4895,
-        "name": "Fort Qu\\'Appelle",
+        "name": "Fort Qu'Appelle",
         "state_id": 612,
         "country_id": 39,
         "country_code": "CA"
@@ -35029,7 +35029,7 @@
     },
     {
         "id": 5005,
-        "name": "N\\'Djamena",
+        "name": "N'Djamena",
         "state_id": 644,
         "country_id": 43,
         "country_code": "TD"
@@ -35288,7 +35288,7 @@
     },
     {
         "id": 5042,
-        "name": "O\\'Higgins",
+        "name": "O'Higgins",
         "state_id": 655,
         "country_id": 44,
         "country_code": "CL"
@@ -55343,7 +55343,7 @@
     },
     {
         "id": 7907,
-        "name": "Namesht\\' nad Oslavou",
+        "name": "Namesht' nad Oslavou",
         "state_id": 802,
         "country_id": 58,
         "country_code": "CZ"
@@ -56337,7 +56337,7 @@
     },
     {
         "id": 8049,
-        "name": "Horazhd\\'ovice",
+        "name": "Horazhd'ovice",
         "state_id": 812,
         "country_id": 58,
         "country_code": "CZ"
@@ -56995,7 +56995,7 @@
     },
     {
         "id": 8143,
-        "name": "Tresht\\'",
+        "name": "Tresht'",
         "state_id": 823,
         "country_id": 58,
         "country_code": "CZ"
@@ -57009,7 +57009,7 @@
     },
     {
         "id": 8145,
-        "name": "Zhd\\'ar",
+        "name": "Zhd'ar",
         "state_id": 823,
         "country_id": 58,
         "country_code": "CZ"
@@ -60768,7 +60768,7 @@
     },
     {
         "id": 8682,
-        "name": "\\'Izbat-al-Burj",
+        "name": "'Izbat-al-Burj",
         "state_id": 933,
         "country_id": 65,
         "country_code": "EG"
@@ -60803,7 +60803,7 @@
     },
     {
         "id": 8687,
-        "name": "Kafr Sa\\'d",
+        "name": "Kafr Sa'd",
         "state_id": 933,
         "country_id": 65,
         "country_code": "EG"
@@ -60845,7 +60845,7 @@
     },
     {
         "id": 8693,
-        "name": "Kafr-al-Jara\\'idah",
+        "name": "Kafr-al-Jara'idah",
         "state_id": 934,
         "country_id": 65,
         "country_code": "EG"
@@ -60936,7 +60936,7 @@
     },
     {
         "id": 8706,
-        "name": "ad-Da\\'ba",
+        "name": "ad-Da'ba",
         "state_id": 935,
         "country_id": 65,
         "country_code": "EG"
@@ -60950,7 +60950,7 @@
     },
     {
         "id": 8708,
-        "name": "Asfun-al-Mata\\'inah",
+        "name": "Asfun-al-Mata'inah",
         "state_id": 941,
         "country_id": 65,
         "country_code": "EG"
@@ -61006,14 +61006,14 @@
     },
     {
         "id": 8716,
-        "name": "Kiman-al-Mata\\'inah",
+        "name": "Kiman-al-Mata'inah",
         "state_id": 941,
         "country_id": 65,
         "country_code": "EG"
     },
     {
         "id": 8717,
-        "name": "Naj\\' Hammadi",
+        "name": "Naj' Hammadi",
         "state_id": 941,
         "country_id": 65,
         "country_code": "EG"
@@ -61230,7 +61230,7 @@
     },
     {
         "id": 8748,
-        "name": "al-Ma\\'sarah",
+        "name": "al-Ma'sarah",
         "state_id": 945,
         "country_id": 65,
         "country_code": "EG"
@@ -61328,7 +61328,7 @@
     },
     {
         "id": 8762,
-        "name": "Hawsh \\'Isa",
+        "name": "Hawsh 'Isa",
         "state_id": 947,
         "country_id": 65,
         "country_code": "EG"
@@ -61587,7 +61587,7 @@
     },
     {
         "id": 8799,
-        "name": "Fa\\'id",
+        "name": "Fa'id",
         "state_id": 951,
         "country_id": 65,
         "country_code": "EG"
@@ -61650,7 +61650,7 @@
     },
     {
         "id": 8808,
-        "name": "al-\\'Ayyat",
+        "name": "al-'Ayyat",
         "state_id": 952,
         "country_id": 65,
         "country_code": "EG"
@@ -61706,7 +61706,7 @@
     },
     {
         "id": 8816,
-        "name": "Birkat-as-Sab\\'",
+        "name": "Birkat-as-Sab'",
         "state_id": 953,
         "country_id": 65,
         "country_code": "EG"
@@ -61888,7 +61888,7 @@
     },
     {
         "id": 8842,
-        "name": "Abu Za\\'bal",
+        "name": "Abu Za'bal",
         "state_id": 956,
         "country_id": 65,
         "country_code": "EG"
@@ -62518,7 +62518,7 @@
     },
     {
         "id": 8932,
-        "name": "Ak\\'ordat",
+        "name": "Ak'ordat",
         "state_id": 985,
         "country_id": 68,
         "country_code": "ER"
@@ -62567,14 +62567,14 @@
     },
     {
         "id": 8939,
-        "name": "Addi K\\'eyih",
+        "name": "Addi K'eyih",
         "state_id": 987,
         "country_id": 68,
         "country_code": "ER"
     },
     {
         "id": 8940,
-        "name": "Dek\\'emhare",
+        "name": "Dek'emhare",
         "state_id": 987,
         "country_id": 68,
         "country_code": "ER"
@@ -62588,7 +62588,7 @@
     },
     {
         "id": 8942,
-        "name": "Sen\\'afe",
+        "name": "Sen'afe",
         "state_id": 987,
         "country_id": 68,
         "country_code": "ER"
@@ -69707,14 +69707,14 @@
     },
     {
         "id": 9959,
-        "name": "Addi Ark\\'ay",
+        "name": "Addi Ark'ay",
         "state_id": 1005,
         "country_id": 70,
         "country_code": "ET"
     },
     {
         "id": 9960,
-        "name": "Addis \\'Alem",
+        "name": "Addis 'Alem",
         "state_id": 1005,
         "country_id": 70,
         "country_code": "ET"
@@ -69798,7 +69798,7 @@
     },
     {
         "id": 9972,
-        "name": "Debre Mark\\'os",
+        "name": "Debre Mark'os",
         "state_id": 1005,
         "country_id": 70,
         "country_code": "ET"
@@ -69854,7 +69854,7 @@
     },
     {
         "id": 9980,
-        "name": "K\\'obo",
+        "name": "K'obo",
         "state_id": 1005,
         "country_id": 70,
         "country_code": "ET"
@@ -69882,7 +69882,7 @@
     },
     {
         "id": 9984,
-        "name": "Mott\\'a",
+        "name": "Mott'a",
         "state_id": 1005,
         "country_id": 70,
         "country_code": "ET"
@@ -69896,7 +69896,7 @@
     },
     {
         "id": 9986,
-        "name": "Sek\\'ot\\'a",
+        "name": "Sek'ot'a",
         "state_id": 1005,
         "country_id": 70,
         "country_code": "ET"
@@ -69966,7 +69966,7 @@
     },
     {
         "id": 9996,
-        "name": "\\'Alem Maya",
+        "name": "'Alem Maya",
         "state_id": 1012,
         "country_id": 70,
         "country_code": "ET"
@@ -70099,7 +70099,7 @@
     },
     {
         "id": 10015,
-        "name": "Ginch\\'i",
+        "name": "Ginch'i",
         "state_id": 1012,
         "country_id": 70,
         "country_code": "ET"
@@ -70204,7 +70204,7 @@
     },
     {
         "id": 10030,
-        "name": "Mek\\'i",
+        "name": "Mek'i",
         "state_id": 1012,
         "country_id": 70,
         "country_code": "ET"
@@ -70267,7 +70267,7 @@
     },
     {
         "id": 10039,
-        "name": "Nek\\'emte",
+        "name": "Nek'emte",
         "state_id": 1012,
         "country_id": 70,
         "country_code": "ET"
@@ -70337,14 +70337,14 @@
     },
     {
         "id": 10049,
-        "name": "Welench\\'iti",
+        "name": "Welench'iti",
         "state_id": 1012,
         "country_id": 70,
         "country_code": "ET"
     },
     {
         "id": 10050,
-        "name": "Welk\\'it\\'e",
+        "name": "Welk'it'e",
         "state_id": 1012,
         "country_id": 70,
         "country_code": "ET"
@@ -70470,7 +70470,7 @@
     },
     {
         "id": 10068,
-        "name": "Ch\\'ench\\'a",
+        "name": "Ch'ench'a",
         "state_id": 1014,
         "country_id": 70,
         "country_code": "ET"
@@ -70491,7 +70491,7 @@
     },
     {
         "id": 10071,
-        "name": "Hossa\\'ina",
+        "name": "Hossa'ina",
         "state_id": 1014,
         "country_id": 70,
         "country_code": "ET"
@@ -70554,7 +70554,7 @@
     },
     {
         "id": 10080,
-        "name": "Yirga Ch\\'efe",
+        "name": "Yirga Ch'efe",
         "state_id": 1014,
         "country_id": 70,
         "country_code": "ET"
@@ -70589,7 +70589,7 @@
     },
     {
         "id": 10085,
-        "name": "Alamat\\'a",
+        "name": "Alamat'a",
         "state_id": 1015,
         "country_id": 70,
         "country_code": "ET"
@@ -70624,14 +70624,14 @@
     },
     {
         "id": 10090,
-        "name": "Maych\\'ew",
+        "name": "Maych'ew",
         "state_id": 1015,
         "country_id": 70,
         "country_code": "ET"
     },
     {
         "id": 10091,
-        "name": "Mek\\'ele",
+        "name": "Mek'ele",
         "state_id": 1015,
         "country_id": 70,
         "country_code": "ET"
@@ -70645,7 +70645,7 @@
     },
     {
         "id": 10093,
-        "name": "Wik\\'ro",
+        "name": "Wik'ro",
         "state_id": 1015,
         "country_id": 70,
         "country_code": "ET"
@@ -72913,7 +72913,7 @@
     },
     {
         "id": 10417,
-        "name": "Berre-l\\'Etang",
+        "name": "Berre-l'Etang",
         "state_id": 1080,
         "country_id": 75,
         "country_code": "FR"
@@ -74306,7 +74306,7 @@
     },
     {
         "id": 10616,
-        "name": "Villenave-d\\'Ornon",
+        "name": "Villenave-d'Ornon",
         "state_id": 1110,
         "country_id": 75,
         "country_code": "FR"
@@ -74425,7 +74425,7 @@
     },
     {
         "id": 10633,
-        "name": "L\\'Union",
+        "name": "L'Union",
         "state_id": 1113,
         "country_id": 75,
         "country_code": "FR"
@@ -74915,7 +74915,7 @@
     },
     {
         "id": 10703,
-        "name": "Ville-d\\'Avray",
+        "name": "Ville-d'Avray",
         "state_id": 1121,
         "country_id": 75,
         "country_code": "FR"
@@ -75195,7 +75195,7 @@
     },
     {
         "id": 10743,
-        "name": "Saint-Martin-d\\'Heres",
+        "name": "Saint-Martin-d'Heres",
         "state_id": 1127,
         "country_id": 75,
         "country_code": "FR"
@@ -75321,7 +75321,7 @@
     },
     {
         "id": 10761,
-        "name": "Cuxac-d\\'Aude",
+        "name": "Cuxac-d'Aude",
         "state_id": 1131,
         "country_id": 75,
         "country_code": "FR"
@@ -75769,7 +75769,7 @@
     },
     {
         "id": 10825,
-        "name": "Saint-Barthelemy-d\\'Anjou",
+        "name": "Saint-Barthelemy-d'Anjou",
         "state_id": 1145,
         "country_id": 75,
         "country_code": "FR"
@@ -76336,7 +76336,7 @@
     },
     {
         "id": 10906,
-        "name": "Bruay-sur-l\\'Escaut",
+        "name": "Bruay-sur-l'Escaut",
         "state_id": 1155,
         "country_id": 75,
         "country_code": "FR"
@@ -76371,7 +76371,7 @@
     },
     {
         "id": 10911,
-        "name": "Conde-sur-l\\'Escaut",
+        "name": "Conde-sur-l'Escaut",
         "state_id": 1155,
         "country_id": 75,
         "country_code": "FR"
@@ -76721,7 +76721,7 @@
     },
     {
         "id": 10961,
-        "name": "Villeneuve-d\\'Ascq",
+        "name": "Villeneuve-d'Ascq",
         "state_id": 1155,
         "country_id": 75,
         "country_code": "FR"
@@ -76875,7 +76875,7 @@
     },
     {
         "id": 10983,
-        "name": "L\\'Aigle",
+        "name": "L'Aigle",
         "state_id": 1158,
         "country_id": 75,
         "country_code": "FR"
@@ -77141,7 +77141,7 @@
     },
     {
         "id": 11021,
-        "name": "Noirmoutier-en-l\\'\u00c3\u0083\u00c6\u0092\u00c3\u0082\u00c5\u00bdle",
+        "name": "Noirmoutier-en-l'\u00c3\u0083\u00c6\u0092\u00c3\u0082\u00c5\u00bdle",
         "state_id": 1162,
         "country_id": 75,
         "country_code": "FR"
@@ -77218,7 +77218,7 @@
     },
     {
         "id": 11032,
-        "name": "Cournon-d\\'Auvergne",
+        "name": "Cournon-d'Auvergne",
         "state_id": 1164,
         "country_id": 75,
         "country_code": "FR"
@@ -77540,7 +77540,7 @@
     },
     {
         "id": 11078,
-        "name": "Chalain-d\\'Uzore",
+        "name": "Chalain-d'Uzore",
         "state_id": 1169,
         "country_id": 75,
         "country_code": "FR"
@@ -77953,7 +77953,7 @@
     },
     {
         "id": 11137,
-        "name": "Gonfreville-l\\'Orcher",
+        "name": "Gonfreville-l'Orcher",
         "state_id": 1175,
         "country_id": 75,
         "country_code": "FR"
@@ -78751,7 +78751,7 @@
     },
     {
         "id": 11251,
-        "name": "L\\'Isle-Adam",
+        "name": "L'Isle-Adam",
         "state_id": 1186,
         "country_id": 75,
         "country_code": "FR"
@@ -78821,7 +78821,7 @@
     },
     {
         "id": 11261,
-        "name": "Saint-Ouen-l\\'Aumone",
+        "name": "Saint-Ouen-l'Aumone",
         "state_id": 1186,
         "country_id": 75,
         "country_code": "FR"
@@ -78989,7 +78989,7 @@
     },
     {
         "id": 11285,
-        "name": "L\\'Hay-les-Roses",
+        "name": "L'Hay-les-Roses",
         "state_id": 1187,
         "country_id": 75,
         "country_code": "FR"
@@ -79304,7 +79304,7 @@
     },
     {
         "id": 11330,
-        "name": "L\\'Isle-sur-la-Sorgue",
+        "name": "L'Isle-sur-la-Sorgue",
         "state_id": 1189,
         "country_id": 75,
         "country_code": "FR"
@@ -79360,7 +79360,7 @@
     },
     {
         "id": 11338,
-        "name": "Chateau-d\\'Olonne",
+        "name": "Chateau-d'Olonne",
         "state_id": 1191,
         "country_id": 75,
         "country_code": "FR"
@@ -79395,7 +79395,7 @@
     },
     {
         "id": 11343,
-        "name": "Les Sables-d\\'Olonne",
+        "name": "Les Sables-d'Olonne",
         "state_id": 1191,
         "country_id": 75,
         "country_code": "FR"
@@ -79500,7 +79500,7 @@
     },
     {
         "id": 11358,
-        "name": "Bois-d\\'Arcy",
+        "name": "Bois-d'Arcy",
         "state_id": 1195,
         "country_id": 75,
         "country_code": "FR"
@@ -79696,7 +79696,7 @@
     },
     {
         "id": 11386,
-        "name": "Saint-Cyr-l\\'Ecole",
+        "name": "Saint-Cyr-l'Ecole",
         "state_id": 1195,
         "country_id": 75,
         "country_code": "FR"
@@ -97721,7 +97721,7 @@
     },
     {
         "id": 13961,
-        "name": "Morne-a-l\\'Eau",
+        "name": "Morne-a-l'Eau",
         "state_id": 1382,
         "country_id": 88,
         "country_code": "GP"
@@ -98176,7 +98176,7 @@
     },
     {
         "id": 14026,
-        "name": "Saint Anne\\'s",
+        "name": "Saint Anne's",
         "state_id": 1426,
         "country_id": 91,
         "country_code": "GG"
@@ -98687,7 +98687,7 @@
     },
     {
         "id": 14099,
-        "name": "L\\'Artibonite",
+        "name": "L'Artibonite",
         "state_id": 1488,
         "country_id": 95,
         "country_code": "HT"
@@ -98701,7 +98701,7 @@
     },
     {
         "id": 14101,
-        "name": "Saint-Michel-de-l\\'Atalaye",
+        "name": "Saint-Michel-de-l'Atalaye",
         "state_id": 1488,
         "country_id": 95,
         "country_code": "HT"
@@ -98736,7 +98736,7 @@
     },
     {
         "id": 14106,
-        "name": "Anse-d\\'Hainault",
+        "name": "Anse-d'Hainault",
         "state_id": 1490,
         "country_id": 95,
         "country_code": "HT"
@@ -144068,7 +144068,7 @@
     },
     {
         "id": 20582,
-        "name": "Na\\'in",
+        "name": "Na'in",
         "state_id": 1627,
         "country_id": 103,
         "country_code": "IR"
@@ -144229,7 +144229,7 @@
     },
     {
         "id": 20605,
-        "name": "Qa\\'emiyeh",
+        "name": "Qa'emiyeh",
         "state_id": 1628,
         "country_id": 103,
         "country_code": "IR"
@@ -144320,14 +144320,14 @@
     },
     {
         "id": 20618,
-        "name": "Sawma\\'eh Sara",
+        "name": "Sawma'eh Sara",
         "state_id": 1629,
         "country_id": 103,
         "country_code": "IR"
     },
     {
         "id": 20619,
-        "name": "Aq Qal\\'eh",
+        "name": "Aq Qal'eh",
         "state_id": 1630,
         "country_id": 103,
         "country_code": "IR"
@@ -144411,7 +144411,7 @@
     },
     {
         "id": 20631,
-        "name": "Bandar-e \\'Abbas",
+        "name": "Bandar-e 'Abbas",
         "state_id": 1632,
         "country_id": 103,
         "country_code": "IR"
@@ -144698,7 +144698,7 @@
     },
     {
         "id": 20672,
-        "name": "Gha\\'nat",
+        "name": "Gha'nat",
         "state_id": 1636,
         "country_id": 103,
         "country_code": "IR"
@@ -145216,7 +145216,7 @@
     },
     {
         "id": 20746,
-        "name": "Qa\\'emshahr",
+        "name": "Qa'emshahr",
         "state_id": 1642,
         "country_id": 103,
         "country_code": "IR"
@@ -145559,7 +145559,7 @@
     },
     {
         "id": 20795,
-        "name": "Ba\\'qubah",
+        "name": "Ba'qubah",
         "state_id": 1655,
         "country_id": 104,
         "country_code": "IQ"
@@ -145573,7 +145573,7 @@
     },
     {
         "id": 20797,
-        "name": "Jalula\\'\\'",
+        "name": "Jalula''",
         "state_id": 1655,
         "country_id": 104,
         "country_code": "IQ"
@@ -145671,14 +145671,14 @@
     },
     {
         "id": 20811,
-        "name": "\\'Ali al Gharbi",
+        "name": "'Ali al Gharbi",
         "state_id": 1660,
         "country_id": 104,
         "country_code": "IQ"
     },
     {
         "id": 20812,
-        "name": "al-\\'Amarah",
+        "name": "al-'Amarah",
         "state_id": 1660,
         "country_id": 104,
         "country_code": "IQ"
@@ -145706,7 +145706,7 @@
     },
     {
         "id": 20816,
-        "name": "Tall \\'Afar",
+        "name": "Tall 'Afar",
         "state_id": 1661,
         "country_id": 104,
         "country_code": "IQ"
@@ -145748,7 +145748,7 @@
     },
     {
         "id": 20822,
-        "name": "Dhalu\\'iyah",
+        "name": "Dhalu'iyah",
         "state_id": 1662,
         "country_id": 104,
         "country_code": "IQ"
@@ -145783,7 +145783,7 @@
     },
     {
         "id": 20827,
-        "name": "al-\\'Aziziyah",
+        "name": "al-'Aziziyah",
         "state_id": 1663,
         "country_id": 104,
         "country_code": "IQ"
@@ -145804,7 +145804,7 @@
     },
     {
         "id": 20830,
-        "name": "an-Nu\\'maniyah",
+        "name": "an-Nu'maniyah",
         "state_id": 1663,
         "country_id": 104,
         "country_code": "IQ"
@@ -145818,7 +145818,7 @@
     },
     {
         "id": 20832,
-        "name": "\\'Anah",
+        "name": "'Anah",
         "state_id": 1664,
         "country_id": 104,
         "country_code": "IQ"
@@ -145888,7 +145888,7 @@
     },
     {
         "id": 20842,
-        "name": "Shatt-al-\\'Arab",
+        "name": "Shatt-al-'Arab",
         "state_id": 1665,
         "country_id": 104,
         "country_code": "IQ"
@@ -145937,7 +145937,7 @@
     },
     {
         "id": 20849,
-        "name": "\\'Afak",
+        "name": "'Afak",
         "state_id": 1667,
         "country_id": 104,
         "country_code": "IQ"
@@ -146028,7 +146028,7 @@
     },
     {
         "id": 20862,
-        "name": "Qal\\'at Dizeh",
+        "name": "Qal'at Dizeh",
         "state_id": 1669,
         "country_id": 104,
         "country_code": "IQ"
@@ -146042,7 +146042,7 @@
     },
     {
         "id": 20864,
-        "name": "\\'Aqrah",
+        "name": "'Aqrah",
         "state_id": 1670,
         "country_id": 104,
         "country_code": "IQ"
@@ -147169,14 +147169,14 @@
     },
     {
         "id": 21025,
-        "name": "\\'Arad",
+        "name": "'Arad",
         "state_id": 1708,
         "country_id": 106,
         "country_code": "IL"
     },
     {
         "id": 21026,
-        "name": "\\'Omer",
+        "name": "'Omer",
         "state_id": 1708,
         "country_id": 106,
         "country_code": "IL"
@@ -147197,7 +147197,7 @@
     },
     {
         "id": 21029,
-        "name": "Be\\'er Sheva",
+        "name": "Be'er Sheva",
         "state_id": 1708,
         "country_id": 106,
         "country_code": "IL"
@@ -147267,7 +147267,7 @@
     },
     {
         "id": 21039,
-        "name": "Qiryat Mal\\'akhi",
+        "name": "Qiryat Mal'akhi",
         "state_id": 1708,
         "country_id": 106,
         "country_code": "IL"
@@ -147295,7 +147295,7 @@
     },
     {
         "id": 21043,
-        "name": "Be\\'er Ya\\'aqov",
+        "name": "Be'er Ya'aqov",
         "state_id": 1710,
         "country_id": 106,
         "country_code": "IL"
@@ -147442,7 +147442,7 @@
     },
     {
         "id": 21064,
-        "name": "Modi\\'in",
+        "name": "Modi'in",
         "state_id": 1710,
         "country_id": 106,
         "country_code": "IL"
@@ -147505,14 +147505,14 @@
     },
     {
         "id": 21073,
-        "name": "Qiryat \\'Eqron",
+        "name": "Qiryat 'Eqron",
         "state_id": 1710,
         "country_id": 106,
         "country_code": "IL"
     },
     {
         "id": 21074,
-        "name": "Ra\\'anana",
+        "name": "Ra'anana",
         "state_id": 1710,
         "country_id": 106,
         "country_code": "IL"
@@ -147610,35 +147610,35 @@
     },
     {
         "id": 21088,
-        "name": "\\'Afula",
+        "name": "'Afula",
         "state_id": 1711,
         "country_id": 106,
         "country_code": "IL"
     },
     {
         "id": 21089,
-        "name": "\\'Akko",
+        "name": "'Akko",
         "state_id": 1711,
         "country_id": 106,
         "country_code": "IL"
     },
     {
         "id": 21090,
-        "name": "\\'Arrabe",
+        "name": "'Arrabe",
         "state_id": 1711,
         "country_id": 106,
         "country_code": "IL"
     },
     {
         "id": 21091,
-        "name": "\\'Ein Mahel",
+        "name": "'Ein Mahel",
         "state_id": 1711,
         "country_id": 106,
         "country_code": "IL"
     },
     {
         "id": 21092,
-        "name": "\\'Ilut",
+        "name": "'Ilut",
         "state_id": 1711,
         "country_id": 106,
         "country_code": "IL"
@@ -147652,7 +147652,7 @@
     },
     {
         "id": 21094,
-        "name": "Basmat Tab\\'un",
+        "name": "Basmat Tab'un",
         "state_id": 1711,
         "country_id": 106,
         "country_code": "IL"
@@ -147666,14 +147666,14 @@
     },
     {
         "id": 21096,
-        "name": "Bet She\\'an",
+        "name": "Bet She'an",
         "state_id": 1711,
         "country_id": 106,
         "country_code": "IL"
     },
     {
         "id": 21097,
-        "name": "Bi\\'ne",
+        "name": "Bi'ne",
         "state_id": 1711,
         "country_id": 106,
         "country_code": "IL"
@@ -147687,7 +147687,7 @@
     },
     {
         "id": 21099,
-        "name": "Bu\\'eine-Nujeidat",
+        "name": "Bu'eine-Nujeidat",
         "state_id": 1711,
         "country_id": 106,
         "country_code": "IL"
@@ -147722,7 +147722,7 @@
     },
     {
         "id": 21104,
-        "name": "I\\'billin",
+        "name": "I'billin",
         "state_id": 1711,
         "country_id": 106,
         "country_code": "IL"
@@ -147785,7 +147785,7 @@
     },
     {
         "id": 21113,
-        "name": "Ma\\'alot Tarshikha",
+        "name": "Ma'alot Tarshikha",
         "state_id": 1711,
         "country_id": 106,
         "country_code": "IL"
@@ -147799,7 +147799,7 @@
     },
     {
         "id": 21115,
-        "name": "Migdal Ha\\'Emeq",
+        "name": "Migdal Ha'Emeq",
         "state_id": 1711,
         "country_id": 106,
         "country_code": "IL"
@@ -147834,7 +147834,7 @@
     },
     {
         "id": 21120,
-        "name": "Nazerat \\'Illit",
+        "name": "Nazerat 'Illit",
         "state_id": 1711,
         "country_id": 106,
         "country_code": "IL"
@@ -147848,7 +147848,7 @@
     },
     {
         "id": 21122,
-        "name": "Qiryat Tiv\\'on",
+        "name": "Qiryat Tiv'on",
         "state_id": 1711,
         "country_id": 106,
         "country_code": "IL"
@@ -147876,7 +147876,7 @@
     },
     {
         "id": 21126,
-        "name": "Shefar\\'am",
+        "name": "Shefar'am",
         "state_id": 1711,
         "country_id": 106,
         "country_code": "IL"
@@ -147897,7 +147897,7 @@
     },
     {
         "id": 21129,
-        "name": "Tur\\'an",
+        "name": "Tur'an",
         "state_id": 1711,
         "country_id": 106,
         "country_code": "IL"
@@ -147911,7 +147911,7 @@
     },
     {
         "id": 21131,
-        "name": "Yoqne\\'am Illit",
+        "name": "Yoqne'am Illit",
         "state_id": 1711,
         "country_id": 106,
         "country_code": "IL"
@@ -147953,14 +147953,14 @@
     },
     {
         "id": 21137,
-        "name": "\\'Ar\\'ara",
+        "name": "'Ar'ara",
         "state_id": 1715,
         "country_id": 106,
         "country_code": "IL"
     },
     {
         "id": 21138,
-        "name": "\\'Isifya",
+        "name": "'Isifya",
         "state_id": 1715,
         "country_id": 106,
         "country_code": "IL"
@@ -148016,7 +148016,7 @@
     },
     {
         "id": 21146,
-        "name": "Or \\'Aqiva",
+        "name": "Or 'Aqiva",
         "state_id": 1715,
         "country_id": 106,
         "country_code": "IL"
@@ -148079,7 +148079,7 @@
     },
     {
         "id": 21155,
-        "name": "Zikhron Ya\\'aqov",
+        "name": "Zikhron Ya'aqov",
         "state_id": 1715,
         "country_id": 106,
         "country_code": "IL"
@@ -148191,7 +148191,7 @@
     },
     {
         "id": 21171,
-        "name": "Citta Sant\\'Angelo",
+        "name": "Citta Sant'Angelo",
         "state_id": 1725,
         "country_id": 107,
         "country_code": "IT"
@@ -148219,7 +148219,7 @@
     },
     {
         "id": 21175,
-        "name": "L\\'Aquila",
+        "name": "L'Aquila",
         "state_id": 1725,
         "country_id": 107,
         "country_code": "IT"
@@ -148254,7 +148254,7 @@
     },
     {
         "id": 21180,
-        "name": "Mosciano Sant\\'Angelo",
+        "name": "Mosciano Sant'Angelo",
         "state_id": 1725,
         "country_id": 107,
         "country_code": "IT"
@@ -148310,7 +148310,7 @@
     },
     {
         "id": 21188,
-        "name": "Sant\\'Egidio alla Vibrata",
+        "name": "Sant'Egidio alla Vibrata",
         "state_id": 1725,
         "country_id": 107,
         "country_code": "IT"
@@ -148709,7 +148709,7 @@
     },
     {
         "id": 21245,
-        "name": "Buttigliera d\\'Asti",
+        "name": "Buttigliera d'Asti",
         "state_id": 1731,
         "country_id": 107,
         "country_code": "IT"
@@ -148842,7 +148842,7 @@
     },
     {
         "id": 21264,
-        "name": "D\\'alpago",
+        "name": "D'alpago",
         "state_id": 1735,
         "country_id": 107,
         "country_code": "IT"
@@ -148905,7 +148905,7 @@
     },
     {
         "id": 21273,
-        "name": "Brignano Gera d\\'Adda",
+        "name": "Brignano Gera d'Adda",
         "state_id": 1737,
         "country_id": 107,
         "country_code": "IT"
@@ -149101,7 +149101,7 @@
     },
     {
         "id": 21301,
-        "name": "Anzola dell\\'Emilia",
+        "name": "Anzola dell'Emilia",
         "state_id": 1739,
         "country_id": 107,
         "country_code": "IT"
@@ -149752,7 +149752,7 @@
     },
     {
         "id": 21394,
-        "name": "Barano d\\'Ischia",
+        "name": "Barano d'Ischia",
         "state_id": 1744,
         "country_id": 107,
         "country_code": "IT"
@@ -149934,7 +149934,7 @@
     },
     {
         "id": 21420,
-        "name": "Cava de\\' Tirreni",
+        "name": "Cava de' Tirreni",
         "state_id": 1744,
         "country_id": 107,
         "country_code": "IT"
@@ -150305,7 +150305,7 @@
     },
     {
         "id": 21473,
-        "name": "Pomigliano d\\'Arco",
+        "name": "Pomigliano d'Arco",
         "state_id": 1744,
         "country_id": 107,
         "country_code": "IT"
@@ -150389,7 +150389,7 @@
     },
     {
         "id": 21485,
-        "name": "San Cipriano d\\'Aversa",
+        "name": "San Cipriano d'Aversa",
         "state_id": 1744,
         "country_id": 107,
         "country_code": "IT"
@@ -150480,42 +150480,42 @@
     },
     {
         "id": 21498,
-        "name": "Sant\\'Agata de\\' Goti",
+        "name": "Sant'Agata de' Goti",
         "state_id": 1744,
         "country_id": 107,
         "country_code": "IT"
     },
     {
         "id": 21499,
-        "name": "Sant\\'Agnello",
+        "name": "Sant'Agnello",
         "state_id": 1744,
         "country_id": 107,
         "country_code": "IT"
     },
     {
         "id": 21500,
-        "name": "Sant\\'Anastasia",
+        "name": "Sant'Anastasia",
         "state_id": 1744,
         "country_id": 107,
         "country_code": "IT"
     },
     {
         "id": 21501,
-        "name": "Sant\\'Antonio Abate",
+        "name": "Sant'Antonio Abate",
         "state_id": 1744,
         "country_id": 107,
         "country_code": "IT"
     },
     {
         "id": 21502,
-        "name": "Sant\\'Arpino",
+        "name": "Sant'Arpino",
         "state_id": 1744,
         "country_id": 107,
         "country_code": "IT"
     },
     {
         "id": 21503,
-        "name": "Sant\\'Egidio del Monte Albino",
+        "name": "Sant'Egidio del Monte Albino",
         "state_id": 1744,
         "country_id": 107,
         "country_code": "IT"
@@ -151670,7 +151670,7 @@
     },
     {
         "id": 21668,
-        "name": "Santa Vittoria d\\'Alba",
+        "name": "Santa Vittoria d'Alba",
         "state_id": 1752,
         "country_id": 107,
         "country_code": "IT"
@@ -151824,7 +151824,7 @@
     },
     {
         "id": 21690,
-        "name": "Castelnovo ne\\' Monti",
+        "name": "Castelnovo ne' Monti",
         "state_id": 1753,
         "country_id": 107,
         "country_code": "IT"
@@ -151999,7 +151999,7 @@
     },
     {
         "id": 21715,
-        "name": "Fiorenzuola d\\'Arda",
+        "name": "Fiorenzuola d'Arda",
         "state_id": 1753,
         "country_id": 107,
         "country_code": "IT"
@@ -152034,7 +152034,7 @@
     },
     {
         "id": 21720,
-        "name": "Granarolo dell\\'Emilia",
+        "name": "Granarolo dell'Emilia",
         "state_id": 1753,
         "country_id": 107,
         "country_code": "IT"
@@ -152188,7 +152188,7 @@
     },
     {
         "id": 21742,
-        "name": "Ozzano dell\\'Emilia",
+        "name": "Ozzano dell'Emilia",
         "state_id": 1753,
         "country_id": 107,
         "country_code": "IT"
@@ -152251,7 +152251,7 @@
     },
     {
         "id": 21751,
-        "name": "Reggio nell\\'Emilia",
+        "name": "Reggio nell'Emilia",
         "state_id": 1753,
         "country_id": 107,
         "country_code": "IT"
@@ -152342,7 +152342,7 @@
     },
     {
         "id": 21764,
-        "name": "Sant\\'Ilario d\\'Enza",
+        "name": "Sant'Ilario d'Enza",
         "state_id": 1753,
         "country_id": 107,
         "country_code": "IT"
@@ -152524,14 +152524,14 @@
     },
     {
         "id": 21790,
-        "name": "Romans d\\'Isonzo",
+        "name": "Romans d'Isonzo",
         "state_id": 1761,
         "country_id": 107,
         "country_code": "IT"
     },
     {
         "id": 21791,
-        "name": "Savogna d\\'Isonzo",
+        "name": "Savogna d'Isonzo",
         "state_id": 1761,
         "country_id": 107,
         "country_code": "IT"
@@ -153672,7 +153672,7 @@
     },
     {
         "id": 21954,
-        "name": "Calusco d\\'Adda",
+        "name": "Calusco d'Adda",
         "state_id": 1769,
         "country_id": 107,
         "country_code": "IT"
@@ -153791,14 +153791,14 @@
     },
     {
         "id": 21971,
-        "name": "Cassano d\\'Adda",
+        "name": "Cassano d'Adda",
         "state_id": 1769,
         "country_id": 107,
         "country_code": "IT"
     },
     {
         "id": 21972,
-        "name": "Cassina de\\' Pecchi",
+        "name": "Cassina de' Pecchi",
         "state_id": 1769,
         "country_id": 107,
         "country_code": "IT"
@@ -154015,7 +154015,7 @@
     },
     {
         "id": 22003,
-        "name": "Cornate d\\'Adda",
+        "name": "Cornate d'Adda",
         "state_id": 1769,
         "country_id": 107,
         "country_code": "IT"
@@ -154638,7 +154638,7 @@
     },
     {
         "id": 22092,
-        "name": "Palazzolo sull\\'Oglio",
+        "name": "Palazzolo sull'Oglio",
         "state_id": 1769,
         "country_id": 107,
         "country_code": "IT"
@@ -154827,7 +154827,7 @@
     },
     {
         "id": 22119,
-        "name": "Sant\\'Angelo Lodigiano",
+        "name": "Sant'Angelo Lodigiano",
         "state_id": 1769,
         "country_id": 107,
         "country_code": "IT"
@@ -155247,7 +155247,7 @@
     },
     {
         "id": 22179,
-        "name": "Torre d\\'Isola",
+        "name": "Torre d'Isola",
         "state_id": 1770,
         "country_id": 107,
         "country_code": "IT"
@@ -155597,7 +155597,7 @@
     },
     {
         "id": 22229,
-        "name": "Porto Sant\\'Elpidio",
+        "name": "Porto Sant'Elpidio",
         "state_id": 1773,
         "country_id": 107,
         "country_code": "IT"
@@ -155632,7 +155632,7 @@
     },
     {
         "id": 22234,
-        "name": "Sant\\'Elpidio a Mare",
+        "name": "Sant'Elpidio a Mare",
         "state_id": 1773,
         "country_id": 107,
         "country_code": "IT"
@@ -155828,7 +155828,7 @@
     },
     {
         "id": 22262,
-        "name": "Trezzo Sull\\'adda",
+        "name": "Trezzo Sull'adda",
         "state_id": 1775,
         "country_id": 107,
         "country_code": "IT"
@@ -155842,7 +155842,7 @@
     },
     {
         "id": 22264,
-        "name": "Vaprio d\\'Adda",
+        "name": "Vaprio d'Adda",
         "state_id": 1775,
         "country_id": 107,
         "country_code": "IT"
@@ -155961,7 +155961,7 @@
     },
     {
         "id": 22281,
-        "name": "Forio d\\'Ischia",
+        "name": "Forio d'Ischia",
         "state_id": 1781,
         "country_id": 107,
         "country_code": "IT"
@@ -157396,7 +157396,7 @@
     },
     {
         "id": 22486,
-        "name": "Monte Sant\\'Angelo",
+        "name": "Monte Sant'Angelo",
         "state_id": 1794,
         "country_id": 107,
         "country_code": "IT"

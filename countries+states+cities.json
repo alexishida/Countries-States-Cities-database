@@ -345,8 +345,8 @@
         "capital": "Algiers",
         "currency": "DZD",
         "states": {
-            "\\'Ayn Daflah": [],
-            "\\'Ayn Tamushanat": [],
+            "'Ayn Daflah": [],
+            "'Ayn Tamushanat": [],
             "Adrar": [
                 "Adrar",
                 "Awlaf",
@@ -605,11 +605,11 @@
                 "Ziyama Mansuriyah",
                 "al-'Ulmah"
             ],
-            "Sayda\\'": [
+            "Sayda'": [
                 "'Ayn-al-Hajar",
                 "Sayda'"
             ],
-            "Sidi ban-al-\\'Abbas": [],
+            "Sidi ban-al-'Abbas": [],
             "Suq Ahras": [],
             "Tamanghasat": [
                 "'Ayn Qazzan",
@@ -727,7 +727,7 @@
                 "al-Abyad Sidi Shaykh",
                 "al-Bayadh"
             ],
-            "al-Jaza\\'ir": [
+            "al-Jaza'ir": [
                 "Bab Azwar",
                 "Baraki",
                 "Bir Murad Rais",
@@ -804,7 +804,7 @@
                 "Utulei",
                 "Vatia"
             ],
-            "Manu\\'a": [
+            "Manu'a": [
                 "Ofu"
             ],
             "Swains Island": [],
@@ -1998,7 +1998,7 @@
         "capital": "Manama",
         "currency": "BHD",
         "states": {
-            "\\'Isa": [
+            "'Isa": [
                 "'Isa"
             ],
             "Badiyah": [
@@ -2023,7 +2023,7 @@
             "al-Muharraq": [
                 "al-Muharraq"
             ],
-            "ar-Rifa\\'a": [
+            "ar-Rifa'a": [
                 "ar-Rifa'a"
             ]
         }
@@ -2361,7 +2361,7 @@
                 "Vysokoje",
                 "Zhabinka"
             ],
-            "Homjel\\'": [
+            "Homjel'": [
                 "Buda Kosheljovo",
                 "Chechersk",
                 "Dobrush",
@@ -2413,7 +2413,7 @@
             "Minsk": [
                 "Minsk"
             ],
-            "Minskaja Voblasts\\'": [],
+            "Minskaja Voblasts'": [],
             "Petrik": [
                 "Petrikov"
             ],
@@ -6759,7 +6759,7 @@
                 "Salamanca",
                 "Vicuna"
             ],
-            "Libertador General Bernardo O\\'": [],
+            "Libertador General Bernardo O'": [],
             "Los Lagos": [],
             "Magellanes": [
                 "Cabo de Horno",
@@ -10666,7 +10666,7 @@
         "capital": "Djibouti",
         "currency": "DJF",
         "states": {
-            "\\'Ali Sabih": [],
+            "'Ali Sabih": [],
             "Dikhil": [
                 "Dikhil"
             ],
@@ -11020,7 +11020,7 @@
                 "an-Nukhaylah"
             ],
             "Bani Suwayf": [],
-            "Bur Sa\\'id": [],
+            "Bur Sa'id": [],
             "Cairo": [
                 "6th of October City",
                 "Ataba",
@@ -13238,14 +13238,14 @@
                 "Ajaccio",
                 "Porto-Vecchio"
             ],
-            "Cote-d\\'Or": [
+            "Cote-d'Or": [
                 "Beaune",
                 "Chenove",
                 "Dijon",
                 "Quetigny",
                 "Talant"
             ],
-            "Cotes-d\\'Armor": [
+            "Cotes-d'Armor": [
                 "Dinan",
                 "Lamballe",
                 "Lannion",
@@ -14158,7 +14158,7 @@
                 "Chamberet"
             ],
             "Upper Normandy": [],
-            "Val-d\\'Oise": [
+            "Val-d'Oise": [
                 "Argenteuil",
                 "Arnouville-les-Gonesse",
                 "Beauchamps",
@@ -17362,7 +17362,7 @@
             "Carriacou-Petite Martinique": [],
             "Saint Andrew": [],
             "Saint Davids": [],
-            "Saint George\\'s": [],
+            "Saint George's": [],
             "Saint John": [],
             "Saint Mark": [],
             "Saint Patrick": []
@@ -17821,7 +17821,7 @@
                 "Hinche",
                 "Mirebalais"
             ],
-            "Grand\\'Anse": [
+            "Grand'Anse": [
                 "Anse-d'Hainault",
                 "Dame Marie",
                 "Jeremie",
@@ -25003,7 +25003,7 @@
                 "Qal'at Dizeh",
                 "as-Sulaymaniyah"
             ],
-            "at-Ta\\'mim": [
+            "at-Ta'mim": [
                 "'Aqrah",
                 "Kirkuk"
             ]
@@ -26136,7 +26136,7 @@
                 "Romans d'Isonzo",
                 "Savogna d'Isonzo"
             ],
-            "L\\'Aquila": [
+            "L'Aquila": [
                 "Magliano de Marsi"
             ],
             "Lazio": [
@@ -26932,7 +26932,7 @@
             "Treviso": [],
             "Udine": [],
             "Umbria": [],
-            "Valle d\\'Aosta": [],
+            "Valle d'Aosta": [],
             "Varese": [],
             "Veneto": [],
             "Venezia": [],
@@ -27063,18 +27063,18 @@
         "capital": "Amman",
         "currency": "JOD",
         "states": {
-            "\\'Ajlun": [],
+            "'Ajlun": [],
             "Amman": [],
             "Irbid": [],
             "Jarash": [],
-            "Ma\\'an": [],
+            "Ma'an": [],
             "Madaba": [],
-            "al-\\'Aqabah": [],
-            "al-Balqa\\'": [],
+            "al-'Aqabah": [],
+            "al-Balqa'": [],
             "al-Karak": [],
             "al-Mafraq": [],
             "at-Tafilah": [],
-            "az-Zarqa\\'": []
+            "az-Zarqa'": []
         }
     },
     {
@@ -27358,9 +27358,9 @@
             "Leribe": [],
             "Mafeteng": [],
             "Maseru": [],
-            "Mohale\\'s Hoek": [],
+            "Mohale's Hoek": [],
             "Mokhotlong": [],
-            "Qacha\\'s Nek": [],
+            "Qacha's Nek": [],
             "Quthing": [],
             "Thaba-Tseka": []
         }
@@ -27415,14 +27415,14 @@
             "Tubruq": [],
             "Yafran": [],
             "Zlitan": [],
-            "al-\\'Aziziyah": [],
+            "al-'Aziziyah": [],
             "al-Fatih": [],
             "al-Jabal al Akhdar": [],
             "al-Jufrah": [],
             "al-Khums": [],
             "al-Kufrah": [],
             "an-Nuqat al-Khams": [],
-            "ash-Shati\\'": [],
+            "ash-Shati'": [],
             "az-Zawiyah": []
         }
     },
@@ -28222,7 +28222,7 @@
             "Canterbury": [],
             "Christchurch": [],
             "Gisborne": [],
-            "Hawke\\'s Bay": [],
+            "Hawke's Bay": [],
             "Manawatu-Wanganui": [],
             "Marlborough": [],
             "Nelson": [],
@@ -29273,16 +29273,16 @@
         "capital": "Apia",
         "currency": "WST",
         "states": {
-            "A\\'ana": [],
+            "A'ana": [],
             "Aiga-i-le-Tai": [],
             "Atua": [],
-            "Fa\\'asaleleaga": [],
-            "Gaga\\'emauga": [],
+            "Fa'asaleleaga": [],
+            "Gaga'emauga": [],
             "Gagaifomauga": [],
             "Palauli": [],
-            "Satupa\\'itea": [],
+            "Satupa'itea": [],
             "Tuamasaga": [],
-            "Va\\'a-o-Fonoti": [],
+            "Va'a-o-Fonoti": [],
             "Vaisigano": []
         }
     },
@@ -29341,7 +29341,7 @@
             "Asir": [],
             "Central Province": [],
             "Eastern Province": [],
-            "Ha\\'il": [],
+            "Ha'il": [],
             "Jawf": [],
             "Jizan": [],
             "Makkah": [],
@@ -29721,13 +29721,13 @@
         "capital": "Khartoum",
         "currency": "SDG",
         "states": {
-            "A\\'ali-an-Nil": [],
+            "A'ali-an-Nil": [],
             "Bahr-al-Jabal": [],
             "Central Equatoria": [],
             "Gharb Bahr-al-Ghazal": [],
             "Gharb Darfur": [],
             "Gharb Kurdufan": [],
-            "Gharb-al-Istiwa\\'iyah": [],
+            "Gharb-al-Istiwa'iyah": [],
             "Janub Darfur": [],
             "Janub Kurdufan": [],
             "Junqali": [],
@@ -29736,7 +29736,7 @@
             "Shamal Bahr-al-Ghazal": [],
             "Shamal Darfur": [],
             "Shamal Kurdufan": [],
-            "Sharq-al-Istiwa\\'iyah": [],
+            "Sharq-al-Istiwa'iyah": [],
             "Sinnar": [],
             "Warab": [],
             "Wilayat al Khartum": [],
@@ -29897,7 +29897,7 @@
         "currency": "SYP",
         "states": {
             "Aleppo": [],
-            "Dar\\'a": [],
+            "Dar'a": [],
             "Dayr-az-Zawr": [],
             "Dimashq": [],
             "Halab": [],
@@ -30137,10 +30137,10 @@
         "currency": "TOP",
         "states": {
             "Eua": [],
-            "Ha\\'apai": [],
+            "Ha'apai": [],
             "Niuas": [],
             "Tongatapu": [],
-            "Vava\\'u": []
+            "Vava'u": []
         }
     },
     {
@@ -30183,7 +30183,7 @@
         "states": {
             "Aryanah": [],
             "Bajah": [],
-            "Bin \\'Arus": [],
+            "Bin 'Arus": [],
             "Binzart": [],
             "Gouvernorat de Ariana": [],
             "Gouvernorat de Nabeul": [],
@@ -30386,36 +30386,36 @@
         "capital": "Kiev",
         "currency": "UAH",
         "states": {
-            "Cherkas\\'ka": [],
-            "Chernihivs\\'ka": [],
-            "Chernivets\\'ka": [],
+            "Cherkas'ka": [],
+            "Chernihivs'ka": [],
+            "Chernivets'ka": [],
             "Crimea": [],
             "Dnipropetrovska": [],
-            "Donets\\'ka": [],
-            "Ivano-Frankivs\\'ka": [],
+            "Donets'ka": [],
+            "Ivano-Frankivs'ka": [],
             "Kharkiv": [],
             "Kharkov": [],
             "Khersonska": [],
-            "Khmel\\'nyts\\'ka": [],
+            "Khmel'nyts'ka": [],
             "Kirovohrad": [],
             "Krym": [],
             "Kyyiv": [],
-            "Kyyivs\\'ka": [],
-            "L\\'vivs\\'ka": [],
-            "Luhans\\'ka": [],
-            "Mykolayivs\\'ka": [],
-            "Odes\\'ka": [],
+            "Kyyivs'ka": [],
+            "L'vivs'ka": [],
+            "Luhans'ka": [],
+            "Mykolayivs'ka": [],
+            "Odes'ka": [],
             "Odessa": [],
-            "Poltavs\\'ka": [],
-            "Rivnens\\'ka": [],
-            "Sevastopol\\'": [],
-            "Sums\\'ka": [],
-            "Ternopil\\'s\\'ka": [],
-            "Volyns\\'ka": [],
-            "Vynnyts\\'ka": [],
-            "Zakarpats\\'ka": [],
+            "Poltavs'ka": [],
+            "Rivnens'ka": [],
+            "Sevastopol'": [],
+            "Sums'ka": [],
+            "Ternopil's'ka": [],
+            "Volyns'ka": [],
+            "Vynnyts'ka": [],
+            "Zakarpats'ka": [],
             "Zaporizhia": [],
-            "Zhytomyrs\\'ka": []
+            "Zhytomyrs'ka": []
         }
     },
     {
@@ -30863,7 +30863,7 @@
         "states": {
             "Bu Jaydur": [],
             "Wad-adh-Dhahab": [],
-            "al-\\'Ayun": [],
+            "al-'Ayun": [],
             "as-Samarah": []
         }
     },
@@ -30877,7 +30877,7 @@
         "capital": "Sanaa",
         "currency": "YER",
         "states": {
-            "\\'Adan": [],
+            "'Adan": [],
             "Abyan": [],
             "Dhamar": [],
             "Hadramaut": [],
@@ -30885,12 +30885,12 @@
             "Hudaydah": [],
             "Ibb": [],
             "Lahij": [],
-            "Ma\\'rib": [],
-            "Madinat San\\'a": [],
-            "Sa\\'dah": [],
+            "Ma'rib": [],
+            "Madinat San'a": [],
+            "Sa'dah": [],
             "Sana": [],
             "Shabwah": [],
-            "Ta\\'izz": [],
+            "Ta'izz": [],
             "al-Bayda": [],
             "al-Hudaydah": [],
             "al-Jawf": [],
