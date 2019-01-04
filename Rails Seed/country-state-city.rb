@@ -1,4 +1,8 @@
-# Seed para carregamento de Países, Estados e Cidades
+# https://github.com/alexishida/countries-states-cities-database
+# Date 04/01/2019
+# Version: 1.0.0
+# Author: Alex Ishida <alexishida@gmail.com>
+# Add to Gemfile gem 'activerecord-import'
 
 puts 'Carregando Países, Estados e Cidades'
 puts 'Zerando as tabelas'
